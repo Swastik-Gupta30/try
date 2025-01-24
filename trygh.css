@@ -19,5 +19,6 @@ h1{
     left : 50%;
     color: white;
     mix-blend-mode: difference;
+    padding-left: 5%;                  /*a minor chnage made*/
 
 }
